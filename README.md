@@ -15,15 +15,21 @@ Natural — not an error, novelties in data
 Applications
 
 Fraud detection — detecting fraudulent applications for credit cards,
+
 state benefits or detecting fraudulent usage of credit cards or mobile phones.
+
 Loan application processing — to detect fraudulent applications or
 potentially problematic customers.
+
 Intrusion detection — detecting unauthorized access in computer
 networks.
+
 Activity monitoring — detecting mobile phone fraud by monitoring
 phone activity or suspicious trades in the equity markets.
+
 Network performance — monitoring the performance of computer
 networks, for example, to detect network bottlenecks.
+
 Fault diagnosis — monitoring processes to detect faults in motors,
 generators, pipelines, or space instruments on space shuttles for
 example.
